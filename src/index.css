@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.match {
+  background-color: red;
+}
+.display {
+  display: inline;
+  margin-right: 10px;
+}
+.display:hover {
+  cursor: pointer;
+}
